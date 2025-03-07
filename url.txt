@@ -1,1 +1,1 @@
-https://bikedashboard-y5hixiahjqscpt5nfmsjne.streamlit.app/
+https://bike-dashboard-w7feffnpen3vrcfctz7skj.streamlit.app/
