@@ -5,7 +5,7 @@ import seaborn as sns
 import plotly.express as px
 
 # Memuat data dari file CSV
-file_path = "data/all_data.csv"
+file_path = "dashboard/all_data.csv"
 bike_df = pd.read_csv(file_path)
 
 # Judul Dashboard
