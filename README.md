@@ -1,5 +1,7 @@
 # Dicoding Collection Dashboard ✨
 
+![Rating](img/rating.png)
+
 ## Setup environment
 
 ```
